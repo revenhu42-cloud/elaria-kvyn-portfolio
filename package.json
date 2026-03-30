@@ -1,1 +1,1 @@
-{"name": "elaria-kvyn-portfolio", "version": "1.0.0", "private": true, "dependencies": {"next": "latest", "react": "latest", "react-dom": "latest", "tailwindcss": "latest"}}
+{"name": "your-project-name", "version": "1.0.0", "scripts": {"dev": "your-dev-command", "build": "your-build-command", "start": "your-start-command"}}
