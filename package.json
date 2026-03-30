@@ -1,1 +1,1 @@
-{"name": "your-project-name", "version": "1.0.0", "scripts": {"dev": "your-dev-command", "build": "your-build-command", "start": "your-start-command"}}
+{\n  "name": "elaria-kvyn-portfolio",\n  "version": "1.0.0",\n  "scripts": {\n    "dev": "next dev",\n    "build": "next build",\n    "start": "next start"\n  },\n  "dependencies": {\n    "next": "latest",\n    "react": "latest",\n    "react-dom": "latest",\n    "tailwindcss": "latest",\n    "postcss": "latest",\n    "autoprefixer": "latest"\n  }\n}
